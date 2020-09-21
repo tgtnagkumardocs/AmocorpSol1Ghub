@@ -8,6 +8,8 @@ namespace AmicorpSol1
         {
             Console.WriteLine("Hello Worldkhj!");
             Console.WriteLine("Hello changed!");
+            Console.WriteLine("Hello changed2!");
+
         }
     }
 }
